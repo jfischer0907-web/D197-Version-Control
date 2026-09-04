@@ -1,0 +1,21 @@
+*Summarize how the merge conflict was resolved in part E1:
+When I ran the command to merge 'Test' with 'Working,' it threw a content error. The situation was that I added my studentID to Test's
+The README file is on the same line as the git version I added to the Working's README file. I chose to edit the changes needed using the Merge Editor.
+I chose this option as it seemed the easiest. I worked on the Test side. Above the file was an option to 'Accept the incoming combination.' 
+This option was what I decided. I clicked on it and then completed the merge. It added both lines on the same line on the READFILE 
+for Working, studentID, and then the git version.  ## studentID 011115446## git version 2.49.0.windows.1
+
+
+*Three changes that I made in part C1:
+-The first HTML file that I chose was about.html. I added another text line under the About Us tab. I added, 'We walk it as we talk it.' 
+I decided on this change because of the wording of the text line above it: We are who we are, and we do what we do. We want to do what you need done.
+Both lines seem like a good fit to me. Also, when people visit that webpage, it will cause the actual song with that verse in it to pop into their heads.
+        **<p>We walk it like we talk it.</p>
+
+-The second HTML file that I decided to update is customers.html. I wanted to add real-name content on the webpage. With the text name Customer, it 
+can seem to some that the praise customers give is made up. I added the names so the visitors on the page could relate and 
+picture a real person in their mind. <h2>Jennifer</h2> - Customer1 <h2>Mike</h2> - Customer2 <h2>John</h2> - Customer3
+
+-The third HTML file that I updated was team.html. I updated the title to the top navigation bar. The title 'Western Tech Hub' reads like I am
+on another school's web page. I added the abbreviation Gov to associate it with 'Governors.'
+               ** <h2> Western Gov Tech Hub</h2>  
